@@ -40,7 +40,7 @@ def admin_session():
         print("1. Register new Student")
         print("2. Register new Teacher")
         print("3. Delete existing Student")
-        print("4. Delete existing Student")
+        print("4. Delete existing Teacher")
         print("5. Logout")
 
         user_option = input(str("option : "))
