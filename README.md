@@ -1,6 +1,8 @@
 # SDEpythonproject
 
 This is a bootcamp admin system. where we focus more on the Admin and its functions.
+I choose this project because I briefly worked as a System Admin and I want to experiment how I can manipulate users
+without using active directory.
 
 ## run project app
 
